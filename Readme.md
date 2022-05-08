@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 - Студент: [Даниил Кметь](https://htmlacademy.ru/profile/id237031).
-- Наставник: [Павел Нюкало](https://htmlacademy.ru/profile/nyukalopavel).
+- Наставник: [Александр Карташов](https://htmlacademy.ru/profile/id77080).
 
 ---
 
